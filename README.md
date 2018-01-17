@@ -45,7 +45,7 @@
 * [TCP/IP、Http、Socket的区别](https://jingyan.baidu.com/article/08b6a591e07ecc14a80922f1.html)
 * [HTTP和HTTPS的区别](http://www.mahaixiang.cn/internet/1233.html)
 
-####<a name='编程思想'></a>**编程思想@** 
+#### <a name='编程思想'></a>**编程思想@**
 * [深入浅出－iOS函数式编程的实现 && 响应式编程概念](https://www.jianshu.com/p/7017a220f34c)
 * [iOS 链式编程简单的使用](https://www.jianshu.com/p/b651e82ef6a0)
 
