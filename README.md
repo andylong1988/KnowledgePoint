@@ -10,7 +10,8 @@
 * [源码分析@](#源码分析)
 * [lldb@](#lldb)
 * [网络篇@](#网络篇)
-
+* [编程思想@](#编程思想)
+* [RAC@](#RAC)
 
 
 ------
@@ -43,3 +44,11 @@
 * [关于HTTP协议，一篇就够了](http://www.cnblogs.com/ranyonsue/p/5984001.html)  
 * [TCP/IP、Http、Socket的区别](https://jingyan.baidu.com/article/08b6a591e07ecc14a80922f1.html)
 * [HTTP和HTTPS的区别](http://www.mahaixiang.cn/internet/1233.html)
+
+####<a name='编程思想'></a>**编程思想**
+* [深入浅出－iOS函数式编程的实现 && 响应式编程概念](https://www.jianshu.com/p/7017a220f34c)
+
+####<a name='RAC'></a>**RAC**
+
+*[简书：深入浅出－iOS Reactive Cocoa的常见用法](https://www.jianshu.com/p/e63261712172)
+
