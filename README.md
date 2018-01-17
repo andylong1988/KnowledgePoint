@@ -50,5 +50,4 @@
 
 ####<a name='RAC'></a>**RAC**
 
-*[简书：深入浅出－iOS Reactive Cocoa的常见用法](https://www.jianshu.com/p/e63261712172)
-
+* [简书：深入浅出－iOS Reactive Cocoa的常见用法](https://www.jianshu.com/p/e63261712172)
