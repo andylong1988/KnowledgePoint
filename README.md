@@ -11,6 +11,7 @@
 * [lldb@](#lldb)
 * [网络篇@](#网络篇)
 * [编程思想@](#编程思想)
+* [链式编程@](#链式编程)
 * [RAC@](#RAC)
 
 
@@ -48,6 +49,8 @@
 ####<a name='编程思想'></a>**编程思想**
 * [深入浅出－iOS函数式编程的实现 && 响应式编程概念](https://www.jianshu.com/p/7017a220f34c)
 
-####<a name='RAC'></a>**RAC**
+####<a name='链式编程'></a>**链式编程**
+* [iOS 链式编程简单的使用](https://www.jianshu.com/p/b651e82ef6a0)
 
+####<a name='RAC'></a>**RAC**
 * [深入浅出－iOS Reactive Cocoa的常见用法](https://www.jianshu.com/p/e63261712172)
