@@ -12,7 +12,12 @@
 * [网络篇@](#网络篇)
 * [编程思想@](#编程思想)
 * [RAC@](#RAC)
-
+* [网络缓存策略@](#网络缓存策略)
+* [内存泄漏@](#内存泄漏)
+* [Block@](#block)
+* [属性修饰符@](#属性修饰符)
+* [GCD@](#GCD)
+* [SDWebImage 源码阅读笔记](#SDWebImage 源码阅读笔记)
 
 ------
 
@@ -51,3 +56,36 @@
 
 #### <a name='RAC'></a>**RAC@**
 * [深入浅出－iOS Reactive Cocoa的常见用法](https://www.jianshu.com/p/e63261712172)
+* [RAC API](https://www.jianshu.com/p/6251abc485c5)
+* [RAC核心元素与信号流](https://www.jianshu.com/p/d262f2c55fbe)
+
+#### <a name='网络缓存策略'></a>**网络缓存策略@**
+
+* [iOS网络缓存扫盲篇--使用两行代码就能完成80%的缓存需求](https://www.jianshu.com/p/fb5aaeac06ef)
+
+#### <a name='内存泄漏'></a>**内存泄漏**
+
+*[iOS内存泄漏检测方式和泄漏场景](https://www.jianshu.com/p/e9d989c12ff8)
+*[Instruments检测解决iOS内存泄漏](https://www.jianshu.com/p/aa17176c28bb)
+*[iOS 内存泄漏分析](https://www.jianshu.com/p/bc15591784ce)
+
+####<a name='Block'></a>**Block**
+
+*[A look inside blocks: Episode 1](http://www.galloway.me.uk/2012/10/a-look-inside-blocks-episode-1/)
+*[A look inside blocks: Episode 2](http://www.galloway.me.uk/2012/10/a-look-inside-blocks-episode-2/)
+
+####<a name='属性修饰符'></a>**属性修饰符**
+
+*[ios中属性修饰符的作用](https://www.jianshu.com/p/3cbc79424fb8)
+
+####<a name='GCD'></a>**GCD**
+
+*[iOS多线程--彻底学会多线程之『GCD』](https://www.jianshu.com/p/2d57c72016c6)
+*[iOS多线程--彻底学会多线程之『pthread、NSThread』](https://www.jianshu.com/p/cbaeea5368b1)
+*[iOS多线程--彻底学会多线程之『NSOperation』](https://www.jianshu.com/p/4b1d77054b35)
+*[iOS多线程--彻底学会多线程之『RunLoop』](https://www.jianshu.com/p/d260d18dd551)
+
+
+####<a name='SDWebImage 源码阅读笔记'></a>**SDWebImage 源码阅读笔记**
+
+*[iOS开发SDWebImage 源码阅读笔记](https://www.jianshu.com/p/06f0265c22eb)
